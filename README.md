@@ -1,2 +1,4 @@
-# Profile-Verification-Bot
-If you do a !프로필 @Mansion you'll see a profile in the mansion.
+#상대방 프로필 보기 
+!프로필 @맨션 을 하면 됩니다
+main에 가서 "bot token"에 토큰만 넣고 
+pip 모듈 설치 하시고 실행하시면 됩니다
